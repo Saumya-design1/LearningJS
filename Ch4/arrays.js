@@ -64,7 +64,7 @@ console.log(ourHeroes);
 marvel_heroes.unshift("antman");
 console.log(marvel_heroes);
 
-marvel_heroes.shift();//dlt antman
+marvel_heroes.shift(); //dlt antman
 console.log(marvel_heroes);
 
 console.log(marvel_heroes.slice(2,5));
