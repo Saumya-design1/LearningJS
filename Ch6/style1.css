@@ -1,0 +1,23 @@
+.heading{
+    color: blue;
+    text-decoration: dotted;
+    background-color: yellow;
+}
+
+body{
+    background-color: beige;
+}
+
+.box{
+    height: 100px;
+    width: 200px;
+    background-color: aqua;
+    border: 5px;
+    border-style: dotted;
+    margin: 20px;
+    text-align: center;
+}
+#myId{
+    background-color: blueviolet;
+    color: white;
+}
