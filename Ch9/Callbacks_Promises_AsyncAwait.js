@@ -164,3 +164,5 @@ function getData(dataId){
     await getData(3); //3rd
 })();
 //But iifes can be executed only once
+
+//Also learned APIs in currency converter project
